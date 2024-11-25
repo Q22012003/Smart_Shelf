@@ -39,7 +39,7 @@ function App() {
     <div style={styles.appContainer}>
       <div></div>
       <h1 style={styles.title}>DACN: Hệ thống kệ hàng thông minh </h1> {/* Fixed missing closing tag */}
-      <img src="https://upload.wikimedia.org/wikipedia/vi/1/1b/T%C4%90T_logo.png" alt="Your image description" style={styles.logo} />
+      
       <div style={styles.infoContainer}>
         <p>Họ và tên: Trần Quốc Qui </p>
         <p>Lớp: 21H40302</p>
